@@ -1,0 +1,7 @@
+{
+  "name": "Academic Document Management Portal",
+  "description": "A centralized platform for managing and organizing institutional academic documents with role-based access for Staff, HOD, and Principal-level administrators.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
